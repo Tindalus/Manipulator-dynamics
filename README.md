@@ -35,7 +35,7 @@ _At the end of the function the is commented print for all matrixes if needed_
 As shown in the description the `Dynamic.py` models movement of a simple two linked robot. At the beginning of the script there are some approximate characteristics as well as DH table for this system.  
 The sistem receives simple input `U` (that can be found in the main cycle) that cancels gravity influence and adds a small positive constant signal for all channels leading to following results:  
 ![pic1](resources/pic1.png)  
-This input can be used for control of the model.  
+This input can be used for model control.  
 
 
 
